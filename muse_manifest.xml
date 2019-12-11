@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mccain.com" resolutions="1x" timestamp="1574155544467">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mccain.com" resolutions="1x" timestamp="1576046663361">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3864511001" ref="index"/>
+    <file name="index.css" crc="3879549215" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,5 +18,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3999465182" seo="true" mt="1574155529840" redirect="true"/>
+  <file name="index.html" crc="474615126" seo="true" mt="1576046633301" redirect="true"/>
 </manifest>
